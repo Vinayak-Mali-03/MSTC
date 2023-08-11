@@ -22,7 +22,7 @@ int i;
 unsigned int u_i;
 
 long lng;
-unsigned u_lng;
+unsigned long u_lng;
 
 long long int lng_lng;
 unsigned long long u_lng_lng;
@@ -68,6 +68,10 @@ int main(void)
 
     p_lng_lng = &lng_lng;
     p_u_lng_lng = &u_lng_lng;
+
+    p_f = &f;
+    p_d = &d;
+    p_l_d = &l_d;
 
     return (0);
 }
