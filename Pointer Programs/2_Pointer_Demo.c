@@ -1,7 +1,7 @@
 /**
  * @file 2_Pointer_Demo.c
  * @author Vinayak Mali
- * @brief Craete all builtin data type pointer
+ * @brief Craete all builtin data type pointers
  * @version 0.1
  * @date 2023-08-10 
  * 
