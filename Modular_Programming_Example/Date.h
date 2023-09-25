@@ -2,7 +2,7 @@
 #define _DATE_H
 
 #define SUCCESS         1
-#define INVALID_DATA    2
+#define INVALID_DATE    2
 #define TRUE            1
 #define FALSE           0
 
